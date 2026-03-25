@@ -47,4 +47,4 @@ Creating this infographic using Canva was a straightforward process thanks to it
 
 ## Infographic Preview
 
-![Digital Literacy Infographic](task-1-presentation/digital-literacy-infographic.png)
+![Digital Literacy Infographic](task-1-presentation/digital-literacy-infographic.pdf)
