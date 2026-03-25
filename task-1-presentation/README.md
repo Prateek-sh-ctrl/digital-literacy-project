@@ -44,7 +44,3 @@ Creating this infographic using Canva was a straightforward process thanks to it
 | `README.md` | This file — project documentation for Task 1 |
 
 ---
-
-## Infographic Preview
-
-![Digital Literacy Infographic](task-1-presentation/digital-literacy-infographic.png)
