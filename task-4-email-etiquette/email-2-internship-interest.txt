@@ -1,0 +1,26 @@
+Subject: Expression of Interest – Summer Internship Opportunity in Cybersecurity
+
+Dear Dr. Bandla Pavan Babu,
+
+I am Prateek Sharma, a first-year B.Tech student specialising in Cybersecurity
+and Digital Forensics at Vellore Institute of Technology, Bhopal. I am writing
+to express my interest in a summer internship opportunity at infosys.
+
+I currently serve as the Cyber Domain Lead at KAVACH - VIT Bhopal, where I lead
+initiatives in OSINT and Cyber Threat Intelligence. I work daily with Linux
+distributions (Kali/Parrot), have foundational experience in network protocols,
+and am actively developing skills in VAPT and Blue Teaming.
+
+I am eager to contribute to a professional environment while deepening my
+practical knowledge. I would welcome the opportunity to discuss how my
+skills align with your team's needs.
+
+Please find my LinkedIn profile here: [LinkedIn URL]
+
+Thank you for your time and consideration.
+
+Regards,
+Prateek Sharma
+B.Tech CSE (Cybersecurity & Digital Forensics) — Year 1
+Vellore Institute of Technology, Bhopal
+prateek.25bcy10084@vitbhopal.ac.in
